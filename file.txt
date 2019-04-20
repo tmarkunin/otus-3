@@ -1,2 +1,5 @@
 My first line in project
 Paris is the capital of France
+Berlin is the capital of Germany
+Rio is the capital of Brasil
+
